@@ -1,9 +1,16 @@
 {
+  "name": "nft-solana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "@metaplex-foundation/mpl-token-metadata": "^3.3.0",
-    "@metaplex-foundation/umi": "^0.9.2",
-    "@metaplex-foundation/umi-bundle-defaults": "^0.9.2",
-    "@solana-developers/helpers": "^2.5.6",
+    "@metaplex-foundation/js": "^0.20.1",
     "@solana/web3.js": "^1.95.4"
   }
 }
